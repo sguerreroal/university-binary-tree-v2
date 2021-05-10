@@ -1,0 +1,13 @@
+D:\U De Manizales\IX Semestre\Programacion III\Corte II\BynaryTreeUniversity\BynaryTreeUniversity\bin\Debug\netcoreapp3.1\BynaryTreeUniversity.exe
+D:\U De Manizales\IX Semestre\Programacion III\Corte II\BynaryTreeUniversity\BynaryTreeUniversity\bin\Debug\netcoreapp3.1\BynaryTreeUniversity.deps.json
+D:\U De Manizales\IX Semestre\Programacion III\Corte II\BynaryTreeUniversity\BynaryTreeUniversity\bin\Debug\netcoreapp3.1\BynaryTreeUniversity.runtimeconfig.json
+D:\U De Manizales\IX Semestre\Programacion III\Corte II\BynaryTreeUniversity\BynaryTreeUniversity\bin\Debug\netcoreapp3.1\BynaryTreeUniversity.runtimeconfig.dev.json
+D:\U De Manizales\IX Semestre\Programacion III\Corte II\BynaryTreeUniversity\BynaryTreeUniversity\bin\Debug\netcoreapp3.1\BynaryTreeUniversity.dll
+D:\U De Manizales\IX Semestre\Programacion III\Corte II\BynaryTreeUniversity\BynaryTreeUniversity\bin\Debug\netcoreapp3.1\BynaryTreeUniversity.pdb
+D:\U De Manizales\IX Semestre\Programacion III\Corte II\BynaryTreeUniversity\BynaryTreeUniversity\obj\Debug\netcoreapp3.1\BynaryTreeUniversity.csprojAssemblyReference.cache
+D:\U De Manizales\IX Semestre\Programacion III\Corte II\BynaryTreeUniversity\BynaryTreeUniversity\obj\Debug\netcoreapp3.1\BynaryTreeUniversity.AssemblyInfoInputs.cache
+D:\U De Manizales\IX Semestre\Programacion III\Corte II\BynaryTreeUniversity\BynaryTreeUniversity\obj\Debug\netcoreapp3.1\BynaryTreeUniversity.AssemblyInfo.cs
+D:\U De Manizales\IX Semestre\Programacion III\Corte II\BynaryTreeUniversity\BynaryTreeUniversity\obj\Debug\netcoreapp3.1\BynaryTreeUniversity.csproj.CoreCompileInputs.cache
+D:\U De Manizales\IX Semestre\Programacion III\Corte II\BynaryTreeUniversity\BynaryTreeUniversity\obj\Debug\netcoreapp3.1\BynaryTreeUniversity.dll
+D:\U De Manizales\IX Semestre\Programacion III\Corte II\BynaryTreeUniversity\BynaryTreeUniversity\obj\Debug\netcoreapp3.1\BynaryTreeUniversity.pdb
+D:\U De Manizales\IX Semestre\Programacion III\Corte II\BynaryTreeUniversity\BynaryTreeUniversity\obj\Debug\netcoreapp3.1\BynaryTreeUniversity.genruntimeconfig.cache
